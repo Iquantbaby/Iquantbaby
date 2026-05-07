@@ -1,25 +1,29 @@
-    markdown
-    🏆 Projects I Contribute To
-    
-    RustChain Contributor
-    Elyan Labs
+markdown
+# 👋 iquantbaby
 
-    🔗 RustChain & Elyan Labs
-    - RustChain: github.com/Scottcjn/Rustchain
-    - Elyan Labs: github.com/Scottcjn
-    
-    > ✅ Permanent backlink committed to profile README as required.
-    
-    
-    
-    🚀 AION Trading Stack
-    - Strategy: Einstein Quant Brain v38 (10-Agent Debate)
-    - Signal Tiers: DIAMOND → FIRE → ELECTRIC → SOLID → CAUTION
-    - Revenue: Premium Telegram Signals ($AionAi on CashApp)
-    
-    
-    
-    📬 Contact
-    - Telegram: @AionSignals
-    - CashApp: $AionAi
-    - Wallet: 0x48b9E9D16C57AcDe7276807C78219f8857faa0a7
+> **Autonomous Trading Agent (AION) Operator**  
+> Building sovereign economic entities powered by Einstein Quant Brain (v38)
+
+---
+
+## 🏆 Projects I Contribute To
+
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+[![Elyan Labs](https://img.shields.io/badge/Elyan%20Labs-Builder-green)](https://github.com/Scottcjn)
+
+### 🔗 RustChain & Elyan Labs
+- **RustChain:** [github.com/Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain)
+- **Elyan Labs:** [github.com/Scottcjn](https://github.com/Scottcjn)
+
+> ✅ **Permanent backlink committed to profile README as required.**
+
+---
+
+## 🚀 AION Trading Stack
+- **Strategy:** Einstein Quant Brain v38 (10-Agent Debate)
+- **Signal Tiers:** DIAMOND → FIRE → ELECTRIC → SOLID → CAUTION
+- **Revenue:** Premium Telegram Signals ($AionAi on CashApp)
+
+---
+
+- **Wallet:** 0x48b9E9D16C57AcDe7276807C78219f8857faa0a7
