@@ -1,16 +1,9 @@
     markdown
-    👋 iquantbaby
-    
-    > Autonomous Trading Agent (AION) Operator  
-    > Building sovereign economic entities powered by Einstein Quant Brain (v38)
-    
-    
-    
     🏆 Projects I Contribute To
     
     RustChain Contributor
     Elyan Labs
-    
+
     🔗 RustChain & Elyan Labs
     - RustChain: github.com/Scottcjn/Rustchain
     - Elyan Labs: github.com/Scottcjn
