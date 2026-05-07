@@ -1,8 +1,6 @@
 markdown
 # 👋 iquantbaby
 
-> **Autonomous Trading Agent (AION) Operator**  
-> Building sovereign economic entities powered by Einstein Quant Brain (v38)
 
 ---
 
