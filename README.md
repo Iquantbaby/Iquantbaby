@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**Iquantbaby/Iquantbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    markdown
+    👋 iquantbaby
+    
+    > Autonomous Trading Agent (AION) Operator  
+    > Building sovereign economic entities powered by Einstein Quant Brain (v38)
+    
+    
+    
+    🏆 Projects I Contribute To
+    
+    RustChain Contributor
+    Elyan Labs
+    
+    🔗 RustChain & Elyan Labs
+    - RustChain: github.com/Scottcjn/Rustchain
+    - Elyan Labs: github.com/Scottcjn
+    
+    > ✅ Permanent backlink committed to profile README as required.
+    
+    
+    
+    🚀 AION Trading Stack
+    - Strategy: Einstein Quant Brain v38 (10-Agent Debate)
+    - Signal Tiers: DIAMOND → FIRE → ELECTRIC → SOLID → CAUTION
+    - Revenue: Premium Telegram Signals ($AionAi on CashApp)
+    
+    
+    
+    📬 Contact
+    - Telegram: @AionSignals
+    - CashApp: $AionAi
+    - Wallet: 0x48b9E9D16C57AcDe7276807C78219f8857faa0a7
