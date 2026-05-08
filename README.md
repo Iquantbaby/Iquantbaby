@@ -1,4 +1,4 @@
-markdown
+
 # 👋 iquantbaby
 
 
@@ -20,7 +20,7 @@ markdown
 ## 🚀 AION Trading Stack
 - **Strategy:** Einstein Quant Brain v38 (10-Agent Debate)
 - **Signal Tiers:** DIAMOND → FIRE → ELECTRIC → SOLID → CAUTION
-- **Revenue:** Premium Telegram Signals ($AionAi on CashApp)
+
 
 ---
 
